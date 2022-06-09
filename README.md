@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+    LinkedIn: https://www.linkedin.com/in/rosarioangel
+    GitHub: https://github.com/angelroundtrip
+    Instagram: https://www.instagram.com/angelroundtrip
+    Medium: https://medium.com/@angelroundtrip
+    Site: https://angelrosario.dev
+
+
 <!--
 **angelroundtrip/angelroundtrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
