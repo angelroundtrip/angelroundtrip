@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-    LinkedIn: https://www.linkedin.com/in/rosarioangel
-    GitHub: https://github.com/angelroundtrip
-    Instagram: https://www.instagram.com/angelroundtrip
-    Medium: https://medium.com/@angelroundtrip
-    Site: https://angelrosario.dev
+   LinkedIn: https://www.linkedin.com/in/rosarioangel
+   GitHub: https://github.com/angelroundtrip
+   Instagram: https://www.instagram.com/angelroundtrip
+   Medium: https://medium.com/@angelroundtrip
+   Site: https://angelrosario.dev
 
 
 <!--
