@@ -1,10 +1,11 @@
-Hi 👋 Angel Rosario!
+Hi 👋 <b>Angel Rosario</b> here!
 
+📬 CONNECT WITH ME
+- Portfolio Site: https://angelrosario.dev
 - LinkedIn: https://www.linkedin.com/in/rosarioangel
-- GitHub: https://github.com/angelroundtrip
 - Instagram: https://www.instagram.com/angelroundtrip
 - Medium: https://medium.com/@angelroundtrip
-- Portfolio Site: https://angelrosario.dev
+- GitHub: https://github.com/angelroundtrip
 
 
 <!--
