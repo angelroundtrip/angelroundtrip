@@ -1,4 +1,4 @@
-<h2>Hello 🙋🏽‍♂️ <b style={{fontColor:'red'}}>Angel Rosario</b> here!</h2>
+<h2>Hello 🙋🏽‍♂️ <b style='color:red'>Angel Rosario</b> here!</h2>
 
 <header>Junior Fullstack Software Developer</header>
 
