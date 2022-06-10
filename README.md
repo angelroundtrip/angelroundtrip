@@ -7,8 +7,6 @@ Hello 🙋🏽‍♂️ <b>Angel Rosario</b> here!
 - Medium: https://medium.com/@angelroundtrip
 - GitHub: https://github.com/angelroundtrip
 
-<a href=”https://www.linkedin.com/in/rosarioangel"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
 
 <!--
 **angelroundtrip/angelroundtrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
