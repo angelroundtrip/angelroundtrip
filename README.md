@@ -2,15 +2,17 @@
 
 <h2>Junior Fullstack Software Developer</h2>
 
+<b>About Me</b>
 Aspiring software engineer with hands-on experience utilizing React and Ruby on Rails. I have varied professional and personal experiences, including locally, internationally, and remotely. Those experiences have molded me into a go-getter and into someone that is good with time management, adaptable, and able to work equally well individually or as part of a team.
 
-📬 CONNECT WITH ME
+📬 <b>Connect<b>
 - Portfolio Site: https://angelrosario.dev
 - LinkedIn: https://www.linkedin.com/in/rosarioangel
 - Instagram: https://www.instagram.com/angelroundtrip
 - Medium: https://medium.com/@angelroundtrip
 - GitHub: https://github.com/angelroundtrip
 
+👨🏽‍💻 <b>Languages & Skills</b>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
