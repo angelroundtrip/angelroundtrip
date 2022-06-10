@@ -12,6 +12,10 @@ Aspiring software engineer with hands-on experience utilizing React and Ruby on 
 - GitHub: https://github.com/angelroundtrip
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!--
 **angelroundtrip/angelroundtrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
