@@ -3,7 +3,7 @@
 <h2>Junior Fullstack Software Developer</h2>
 
 <b>About Me</b>
-Aspiring software engineer with hands-on experience utilizing React and Ruby on Rails. I have varied professional and personal experiences, including locally, internationally, and remotely. Those experiences have molded me into a go-getter and into someone that is good with time management, adaptable, and able to work equally well individually or as part of a team.
+<p>Aspiring software engineer with hands-on experience utilizing React and Ruby on Rails. I have varied professional and personal experiences, including locally, internationally, and remotely. Those experiences have molded me into a go-getter and into someone that is good with time management, adaptable, and able to work equally well individually or as part of a team.</p>
 
 📬 <b>Connect<b>
 - Portfolio Site: https://angelrosario.dev
