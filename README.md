@@ -1,6 +1,6 @@
-<h2>Hello 🙋🏽‍♂️ <b style='color:red'>Angel Rosario</b> here!</h2>
+<h2>Hello 🙋🏽‍♂️ <b>Angel Rosario</b> here!</h2>
 
-<header>Junior Fullstack Software Developer</header>
+<h2>Junior Fullstack Software Developer</h2>
 
 Aspiring software engineer with hands-on experience utilizing React and Ruby on Rails. I have varied professional and personal experiences, including locally, internationally, and remotely. Those experiences have molded me into a go-getter and into someone that is good with time management, adaptable, and able to work equally well individually or as part of a team.
 
