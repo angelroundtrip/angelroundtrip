@@ -1,4 +1,4 @@
-Hi 👋 <b>Angel Rosario</b> here!
+Hello 🙋🏽‍♂️ <b>Angel Rosario</b> here!
 
 📬 CONNECT WITH ME
 - Portfolio Site: https://angelrosario.dev
@@ -6,6 +6,8 @@ Hi 👋 <b>Angel Rosario</b> here!
 - Instagram: https://www.instagram.com/angelroundtrip
 - Medium: https://medium.com/@angelroundtrip
 - GitHub: https://github.com/angelroundtrip
+
+<a href=”https://www.linkedin.com/in/rosarioangel"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 <!--
