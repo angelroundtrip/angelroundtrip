@@ -1,4 +1,4 @@
-<h2>Hello 🙋🏽‍♂️ <b>Angel Rosario</b> here!</h2>
+<h1>Hello 🙋🏽‍♂️ <b>Angel Rosario</b> here!</h1>
 
 <h2>Junior Fullstack Software Developer</h2>
 
