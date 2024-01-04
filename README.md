@@ -8,7 +8,6 @@
 📬 <b>Connect With Me</b>
 - LinkedIn: https://www.linkedin.com/in/rosarioangel
 - Instagram: https://www.instagram.com/angelroundtrip
-- Medium: https://medium.com/@angelroundtrip
 - GitHub: https://github.com/angelroundtrip
 
 
